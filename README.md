@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning backend.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - I have also worked on Shopify Platform for building websites.
-- 📫 You can react out to me on my MailID - preranababar9403@gmail.com
+### ✨ Let's Connect!
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out via [LinkedIn](www.linkedin.com/in/prerana-babar-51b89025a) or email me at **preranababar9403@gmail.com**.
+
 
 - ### 🛠 Skills
 - **Languages**: JavaScript, HTML5, CSS3
