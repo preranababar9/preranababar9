@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @preranababar
-- 👀 I have been working on Reactjs, Nextjs for more than 2 years.
+- 👋 Hi, I’m Prerana Babar
+- 👀 I have been working on Reactjs, Nextjs for more than 2 years now.
+- 🔭 I am working as a Frontend Developer.
 - 🌱 I’m currently learning backend.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - I have also worked on Shopify Platform for building websites.
