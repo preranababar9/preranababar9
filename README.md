@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/your-gif.gif" alt="Hi, I'm Prerana!" width="500"/>
-</div>
-
 
 - 👋 Hi, I’m Prerana Babar
 - 👀 I have been working on Reactjs, Nextjs for more than 2 years now.
