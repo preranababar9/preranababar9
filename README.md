@@ -1,8 +1,7 @@
 
 - 👋 Hi, I’m Prerana Babar
 - 👀 I have been working on Reactjs, Nextjs for more than 2 years now.
-- 🔭 I am working as a Frontend Developer.
-- 🌱 I’m currently learning backend.
+- 🔭 I am working as a Full Stack Developer.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - I have also worked on Shopify Platform for building websites.
 ### ✨ Let's Connect!
@@ -12,7 +11,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - ### 🛠 Skills
 - **Languages**: JavaScript, HTML5, CSS3
 - **Frontend**: React.js, Tailwind CSS, Next.js
-- **Backend**: Firebase
+- **Backend**: Firebase, Typescript
 - **Tools**: Git, VS Code, Figma
 
 
