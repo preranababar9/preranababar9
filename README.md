@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Prerana Babar
-- 👀 I have been working on Reactjs, Nextjs for more than 2 years now.
+- 👀 I have been working on MERN Stack for more than 2 years now.
 - 🔭 I am working as a Full Stack Developer.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - I have also worked on Shopify Platform for building websites.
