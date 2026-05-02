@@ -29,7 +29,7 @@
 * 💻 Full Stack Developer building scalable web applications
 * ⚡ Strong in frontend + backend integration
 * 🛍️ Experience with eCommerce platforms & admin dashboards
-* 🔥 Tech Stack: React, Next.js, Tailwind CSS, Firebase, MongoDB
+* 🔥 Tech Stack: React, Next.js, Nodejs, ExpressJS, Firebase, MongoDB
 * 📍 Based in Mumbai, India
 
 💼 **Currently Open For:**
@@ -77,7 +77,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Y&show_icons=preranababar9true&theme=radical&v=1)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=preranababar9&show_icons=true&theme=radical)
 
 ---
 
