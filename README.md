@@ -31,6 +31,7 @@
 * 🛍️ Experience with eCommerce platforms & admin dashboards
 * 🔥 Tech Stack: React, Next.js, Nodejs, ExpressJS, Firebase, MongoDB
 * 📍 Based in Mumbai, India
+* 📩 Email me: preranababar9403@gmail.com
 
 💼 **Currently Open For:**
 
