@@ -7,7 +7,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="preranababar9403@gmail.com">
+  <a href="mailto:preranababar9403@gmail.com">
     <img src="https://img.shields.io/badge/Say%20Hello-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/prerana-babar-51b89025a/">
@@ -77,7 +77,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=preranababar9\&show_icons=true\&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Y&show_icons=preranababar9true&theme=radical&v=1)
 
 ---
 
@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <a href="preranababar9403@gmail.com">
+  <a href="mailto:preranababar9403@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/prerana-babar-51b89025a/">
