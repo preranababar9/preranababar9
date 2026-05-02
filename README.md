@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="mailto:preranababar9403@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/prerana-babar-51b89025a/">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/Prerana_babar">
+    <a href="https://x.com/Prerana_babar">
     <img src="https://img.shields.io/badge/Follow%20Me-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
@@ -73,12 +73,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-000?\&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-000?\&logo=figma)
 ![Postman](https://img.shields.io/badge/-Postman-000?\&logo=postman)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=preranababar9&show_icons=true&theme=radical)
 
 ---
 
